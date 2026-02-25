@@ -1,0 +1,16 @@
+{
+  "name": "btc-monitor",
+  "version": "1.0.0",
+  "description": "Bitcoin market monitoring with AI analysis",
+  "main": "monitor.js",
+  "scripts": {
+    "start": "node monitor.js",
+    "analyze": "node analyzer.js"
+  },
+  "keywords": ["bitcoin", "cryptocurrency", "trading", "analysis"],
+  "author": "Qian Huang",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}

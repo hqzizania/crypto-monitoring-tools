@@ -1,0 +1,16 @@
+{
+  "check_interval_minutes": 10,
+  "min_mentions_per_hour": 50,
+  "chains": ["SOL", "ETH", "BASE", "BSC"],
+  "search_keywords": [
+    "meme coin mooning right now CA",
+    "just launched contract address",
+    "100x potential meme"
+  ],
+  "influencer_accounts": [
+    "@ansem",
+    "@blknoiz06",
+    "@Flowslikeosmo"
+  ],
+  "alert_cooldown_hours": 24
+}

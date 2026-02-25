@@ -1,0 +1,9 @@
+{
+  "interval_minutes": 60,
+  "binance_api": "https://api.github.com",
+  "kline_timeframes": ["5m", "15m", "1h", "4h"],
+  "price_alerts": {
+    "sharp_change_percent": 2,
+    "volume_spike_multiplier": 3
+  }
+}
